@@ -164,7 +164,7 @@ function AdminPage() {
             </style>
           </head>
           <body>
-            <h2>Hotel Mail System - Posts List</h2>
+            <h2>Ibis Hotel Posts List</h2>
             <div class="date">Date: ${format(new Date(), 'dd-MM-yyyy')}</div>
             <table>
               <thead>
